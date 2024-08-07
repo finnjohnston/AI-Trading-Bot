@@ -84,6 +84,7 @@ Here's a step by step explanation of how the trading bot operates:
 - Step 6: At the end of the trading day, the bot evaluates exit criteria, adjusting to stop-loss and take-profit levels
 - Step 7: If exit criteria are met, the bot executes trades to close positions, locking in profits or minimizing losses
 - Step 8: The bot updates historical price data
+- Step 9: Repeat 2-8 daily
 
 ### Troubleshooting
 
