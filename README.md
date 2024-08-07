@@ -144,6 +144,17 @@ The bot uses the Alpaca API to fetch historical and real-time stock price data
 
 ## Results
 
+<img width="721" alt="Screenshot 2024-08-07 at 9 49 02 AM" src="https://github.com/user-attachments/assets/b4c775ac-c5cd-4165-a1da-aa4614421f74">
+
+This image showcases a typical trading day where the bot successfully demonstrates positive returns. The steady upward trend in the porfolio value showcases the effectiveness of the predictive model and trading strategy. 
+
+<img width="1153" alt="Screenshot 2024-08-07 at 9 50 32 AM" src="https://github.com/user-attachments/assets/e15dbbd9-a49f-4076-b38e-6415b8462706">
+
+The diverse range of positions managed by the bot demonstrates its ability to efficiently handle multiple assets. The posditive total P/L percentages indicate its proficiency in selecting trades for both long and short positions.
+
+<img width="747" alt="Screenshot 2024-08-06 at 7 56 00 AM" src="https://github.com/user-attachments/assets/87cb5b7e-a151-4cce-af16-e29eef345edc">
+
+The top positions section shows the bot's skill in identifying profitable trades. The gains in asset indicates its efficiency and ability to dynamically adjust to market movements, resulting in majority positive P/L figures.  
 
 ## Future Work
 
