@@ -605,7 +605,7 @@ def main():
 
                 time.sleep(60)
 
-            elif now.hour == 15 and now.minute == 35:
+            elif now.hour == 15 and now.minute == 30:
                 current_prices = get_current_prices(tickers, data_client)
 
                 positions = trading_client.get_all_positions()
